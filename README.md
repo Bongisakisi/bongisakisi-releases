@@ -1,7 +1,7 @@
 <div align="center">
 <h1>BongisaKisi</h1>
 
-![Version](https://img.shields.io/badge/version-1.2.0-blue)
+![Version](https://img.shields.io/badge/version-1.6.1-blue)
 ![Language](https://img.shields.io/badge/language-javascript-yellow)
 ![Framework](https://img.shields.io/badge/framework-React-blue)
 ![Framework](https://img.shields.io/badge/framework-Electron-green)
